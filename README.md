@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://bhaveshbhansuhali.github.io
+> https://bhaveshbhanushali.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/BhavuBhanushali/bhaveshbhanushali.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/BhavuBhanushali/bhaveshbhanushali.github.io)
