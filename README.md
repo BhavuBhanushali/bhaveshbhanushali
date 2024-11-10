@@ -1,8 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://bhaveshbhanushali.github.io
-
+> https://bhavubhanushali.github.io/bhaveshbhanushali/
 <!-- ![GitHub stars](https://img.shields.io/github/stars/BhavuBhanushali/bhaveshbhanushali.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/BhavuBhanushali/bhaveshbhanushali.github.io)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/BhavuBhanushali/bhaveshbhanushali.github.io/commits/master)
@@ -13,7 +12,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://bhaveshbhansuhali.github.io" target="_blank"><img src="examples/preview.png">
+    <a href="https://bhavubhanushali.github.io/bhaveshbhanushali/" target="_blank"><img src="examples/preview.png">
   </a>
   </kbd>
 </p>
@@ -43,7 +42,7 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://bhaveshbhansuhali.github.io/)**
+To view a live example, **[click here](https://bhavubhanushali.github.io/bhaveshbhanushali/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
